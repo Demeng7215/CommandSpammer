@@ -1,0 +1,8 @@
+name: CommandSpammer
+version: @version@
+main: dev.demeng.commandspammer.CommandSpammer
+api-version: 1.16
+
+commands:
+  spam:
+    description: "Spam a command."
